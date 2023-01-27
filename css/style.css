@@ -1,0 +1,54 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #fff;
+}
+
+/* Hero Section */
+#hero {
+  background: linear-gradient(#ff5f6d, #ffc371);
+  height: 100vh;
+}
+
+.hero-tagline h1 {
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+  font-size: 3rem;
+}
+
+.hero-tagline p {
+  color: #fff;
+}
+
+.button-lg-primary {
+  font-weight: 700;
+  border: none;
+  color: #fff;
+  background-color: #ff4855;
+  height: 2.5rem;
+  width: 9rem;
+  border-radius: 5px;
+}
+
+.button-lg-primary:hover {
+  color: #ff4855;
+  background-color: #fff;
+}
+
+.arrow {
+  height: 30px;
+}
+
+.arrow:hover {
+  color: #fff;
+}
+
