@@ -1,0 +1,31 @@
+@media (max-width: 450px) {
+  html {
+    font-size: 90%;
+  }
+
+  .hero-tagline {
+    text-align: center;
+    padding-bottom: 8rem;
+  }
+
+  .jumbotron-image {
+    padding-top: 5rem;
+  }
+
+  .about-tagline {
+    text-align: center;
+    padding-top: 5rem;
+  }
+
+  .about-image {
+    padding-bottom: 8rem;
+  }
+
+  .download-image {
+    padding-top: 5rem;
+  }
+
+  .download-tagline {
+    padding-bottom: 8rem;
+  }
+}

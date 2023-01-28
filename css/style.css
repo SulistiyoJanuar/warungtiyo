@@ -27,6 +27,7 @@ body {
 
 .hero-tagline p {
   color: #fff;
+  font-size: 1.1rem;
 }
 
 .button-lg-primary {
@@ -52,3 +53,39 @@ body {
   color: #fff;
 }
 
+/* About */
+#about {
+  height: 100vh;
+  background-color: #fee4cb;
+}
+
+.about-tagline h2 {
+  font-weight: 700;
+  color: #ff2b3a;
+  font-size: 2.1rem;
+}
+
+.about-tagline p {
+  font-size: 1.1rem;
+}
+
+/* Download */
+#download {
+  height: 100vh;
+  background: linear-gradient(#ff5f6d, #ffc371);
+}
+
+.download-tagline h2 {
+  color: #fff;
+  font-weight: 700;
+  font-size: 2.1rem;
+}
+
+.card {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+
+.card-text {
+  font-size: 1.2rem;
+}
