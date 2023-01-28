@@ -16,6 +16,7 @@ body {
 #hero {
   background: linear-gradient(#ff5f6d, #ffc371);
   height: 100vh;
+  width: auto;
 }
 
 .hero-tagline h1 {
