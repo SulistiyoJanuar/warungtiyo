@@ -12,6 +12,11 @@ body {
   color: #fff;
 }
 
+.nav-color {
+  background-color: #ff2b3a;
+  transition: ease-in-out 1s;
+}
+
 /* Hero Section */
 #hero {
   background: linear-gradient(#ff5f6d, #ffc371);
@@ -89,4 +94,37 @@ body {
 
 .card-text {
   font-size: 1.2rem;
+}
+
+/* Kontak */
+#contact {
+  height: 100vh;
+  background-color: #fee4cb;
+}
+
+#contact h2 {
+  font-weight: 700;
+  margin-top: 10%;
+  color: #ff2b3a;
+  font-size: 2.1rem;
+}
+
+.form-label {
+  color: #ff2b3a;
+  font-size: 1.2rem;
+}
+
+.button-form {
+  font-weight: 700;
+  border: none;
+  color: #fff;
+  background-color: #ff4855;
+  height: 2.5rem;
+  width: 7rem;
+  border-radius: 5px;
+}
+
+.button-form:hover {
+  color: #ff4855;
+  background-color: #fff;
 }

@@ -28,4 +28,8 @@
   .download-tagline {
     padding-bottom: 8rem;
   }
+
+  #contact h2 {
+    margin-top: 60%;
+  }
 }
